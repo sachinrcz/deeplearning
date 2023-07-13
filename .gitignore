@@ -1,3 +1,5 @@
 .jpg
 .ipynb_checkpoints
 Deployment/
+.zip
+.DS_Store
